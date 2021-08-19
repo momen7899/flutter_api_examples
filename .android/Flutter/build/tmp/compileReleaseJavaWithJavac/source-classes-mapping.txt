@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/momen/flutter/api/flutter_api_example/BuildConfig.java
+ com.momen.flutter.api.flutter_api_example.BuildConfig

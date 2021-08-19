@@ -1,0 +1,4 @@
+com/momen/flutter/api/flutter_api_example/host/MainActivity.java
+ com.momen.flutter.api.flutter_api_example.host.MainActivity
+com/momen/flutter/api/flutter_api_example/host/BuildConfig.java
+ com.momen.flutter.api.flutter_api_example.host.BuildConfig

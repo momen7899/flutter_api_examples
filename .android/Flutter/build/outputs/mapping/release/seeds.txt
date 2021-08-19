@@ -1,0 +1,25 @@
+com.momen.flutter.api.flutter_api_example.R$string
+com.momen.flutter.api.flutter_api_example.R$id
+com.momen.flutter.api.flutter_api_example.R$color
+com.momen.flutter.api.flutter_api_example.R$style
+com.momen.flutter.api.flutter_api_example.R$attr
+com.momen.flutter.api.flutter_api_example.R$id: R$id()
+com.momen.flutter.api.flutter_api_example.R$layout
+com.momen.flutter.api.flutter_api_example.R$style: R$style()
+com.momen.flutter.api.flutter_api_example.R$dimen: R$dimen()
+com.momen.flutter.api.flutter_api_example.R$integer: R$integer()
+com.momen.flutter.api.flutter_api_example.R$drawable: R$drawable()
+com.momen.flutter.api.flutter_api_example.R$styleable: R$styleable()
+com.momen.flutter.api.flutter_api_example.R$dimen
+com.momen.flutter.api.flutter_api_example.R$drawable
+com.momen.flutter.api.flutter_api_example.R: R()
+com.momen.flutter.api.flutter_api_example.R$styleable
+io.flutter.plugins.GeneratedPluginRegistrant
+com.momen.flutter.api.flutter_api_example.R$layout: R$layout()
+com.momen.flutter.api.flutter_api_example.R$attr: R$attr()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.momen.flutter.api.flutter_api_example.R
+com.momen.flutter.api.flutter_api_example.R$string: R$string()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.momen.flutter.api.flutter_api_example.R$integer
+com.momen.flutter.api.flutter_api_example.R$color: R$color()
